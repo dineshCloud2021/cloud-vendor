@@ -1,0 +1,218 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendor_name": "dineshkumar",
+      "email": "exmaple.com",
+      "phone_number": "1234567890",
+      "location": "tirupur",
+      "country": "india",
+      "password": "123456",
+      "bus_list": [
+        {
+          "id": 1,
+          "bus_name": "DSK",
+          "bus_number": "TN 49 CK 5555",
+          "bus_book_img": "https://lh3.googleusercontent.com/proxy/5r3HRB9m45cAd0pxGEQhOF4DRdaKzNVp-bbNmxaXx61qK-YcKlgdi48zykI869vQOHB37wLHDbdXO8M4eS6URY1kq5X3nej8OuGCHfS-SMEhklN6Ve77U_J4rz99MVsXug",
+          "bus_insurance_img": "https://imgv2-1-f.scribdassets.com/img/document/371202185/original/a6147f7f76/1617005915?v=1",
+          "bus_type": "Sleeper + Semi-Sleeper",
+          "bus_front_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrPTzGL4vQTMdfE_x6CDyQzz4xBPdce5vPcRzxjp59rsxgvAc1SA5uiwDFdJ2wKr9NU3g&usqp=CAU",
+          "bus_back_image": "https://s3-eu-west-1.amazonaws.com/yi-files/content/2018/05/5af59af108b24.jpg",
+          "bus_left_image": "https://images.all-free-download.com/images/graphicthumb/creative_bus_design_vector_542780.jpg",
+          "bus_right_image": "https://images.all-free-download.com/images/graphicthumb/creative_bus_design_vector_542780.jpg",
+          "bus_interior_video": "https://images.all-free-download.com/images/graphicthumb/creative_bus_design_vector_542780.jpg",
+          "bus_seat_rows": 6,
+          "bus_semi_seat_count": 12,
+          "bus_semi_seat_type": "front",
+          "verification": "passed",
+          "live_status": "passed",
+          "driver_list": [
+            {
+              "id": 1,
+              "driver_name": "hari",
+              "driver_licence": "https://upload.wikimedia.org/wikipedia/en/c/cd/New_Irish_Driving_Licence.png",
+              "driver_image": "https://i.dailymail.co.uk/i/pix/2017/04/20/13/3F6B966D00000578-4428630-image-m-80_1492690622006.jpg"
+            }
+          ],
+          "location_list": [
+            {
+              "id": 1,
+              "pickup_location": "tiruppur",
+              "pickup_location_point": [
+                {
+                  "latitude": 11.1085,
+                  "longitude": 77.3411,
+                  "latitudeDelta": 0.0922,
+                  "longitudeDelta": 0.0421
+                }
+              ],
+              "droup_location": "chennai",
+              "droup_location_point": [
+                {
+                  "latitude": 13.0827,
+                  "longitude": 80.2707,
+                  "latitudeDelta": 0.0922,
+                  "longitudeDelta": 0.0421
+                }
+              ]
+            }
+          ],
+          "driver": [
+            {
+              "id": 1,
+              "driver_name": "hari",
+              "driver_licence": "https://upload.wikimedia.org/wikipedia/en/c/cd/New_Irish_Driving_Licence.png",
+              "driver_image": "https://i.dailymail.co.uk/i/pix/2017/04/20/13/3F6B966D00000578-4428630-image-m-80_1492690622006.jpg"
+            }
+          ],
+          "location": [
+            {
+              "id": 1,
+              "pickup_location": "tiruppur",
+              "pickup_location_point": [
+                {
+                  "latitude": 11.1085,
+                  "longitude": 77.3411,
+                  "latitudeDelta": 0.0922,
+                  "longitudeDelta": 0.0421
+                }
+              ],
+              "droup_location": "chennai",
+              "droup_location_point": [
+                {
+                  "latitude": 13.0827,
+                  "longitude": 80.2707,
+                  "latitudeDelta": 0.0922,
+                  "longitudeDelta": 0.0421
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "live_bus_list": [
+        {
+          "id": 1,
+          "bus_name": "DSK",
+          "bus_number": "TN 49 CK 5555",
+          "bus_book_img": "https://lh3.googleusercontent.com/proxy/5r3HRB9m45cAd0pxGEQhOF4DRdaKzNVp-bbNmxaXx61qK-YcKlgdi48zykI869vQOHB37wLHDbdXO8M4eS6URY1kq5X3nej8OuGCHfS-SMEhklN6Ve77U_J4rz99MVsXug",
+          "bus_insurance_img": "https://imgv2-1-f.scribdassets.com/img/document/371202185/original/a6147f7f76/1617005915?v=1",
+          "bus_type": "Sleeper + Semi-Sleeper",
+          "bus_front_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrPTzGL4vQTMdfE_x6CDyQzz4xBPdce5vPcRzxjp59rsxgvAc1SA5uiwDFdJ2wKr9NU3g&usqp=CAU",
+          "bus_back_image": "https://s3-eu-west-1.amazonaws.com/yi-files/content/2018/05/5af59af108b24.jpg",
+          "bus_left_image": "https://images.all-free-download.com/images/graphicthumb/creative_bus_design_vector_542780.jpg",
+          "bus_right_image": "https://images.all-free-download.com/images/graphicthumb/creative_bus_design_vector_542780.jpg",
+          "bus_interior_video": "https://images.all-free-download.com/images/graphicthumb/creative_bus_design_vector_542780.jpg",
+          "bus_seat_rows": 6,
+          "bus_semi_seat_count": 12,
+          "bus_semi_seat_type": "front",
+          "verification": "passed",
+          "live_status": "passed",
+          "driver": [
+            {
+              "id": 1,
+              "driver_name": "hari",
+              "driver_licence": "https://i.pinimg.com/originals/ae/93/f2/ae93f216290d6220d4ce85c02f69d065.jpg",
+              "driver_image": "https://i.dailymail.co.uk/i/pix/2017/04/20/13/3F6B966D00000578-4428630-image-m-80_1492690622006.jpg"
+            }
+          ],
+          "location": [
+            {
+              "id": 1,
+              "pickup_location": "tiruppur",
+              "pickup_location_point": [
+                {
+                  "latitude": 11.1085,
+                  "longitude": 77.3411,
+                  "latitudeDelta": 0.0922,
+                  "longitudeDelta": 0.0421
+                }
+              ],
+              "droup_location": "chennai",
+              "droup_location_point": [
+                {
+                  "latitude": 13.0827,
+                  "longitude": 80.2707,
+                  "latitudeDelta": 0.0922,
+                  "longitudeDelta": 0.0421
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "vendor_name": "dinesh",
+      "email": "exmaple.com",
+      "phone_number": "1234567890",
+      "location": "tirupur",
+      "country": "india",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "vendor_name": "kumar",
+      "email": "exmaple.com",
+      "phone_number": "1234567890",
+      "location": "tirupur",
+      "country": "india",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "vendor_name": "dd",
+      "email": "exmaple.com",
+      "phone_number": "1234567890",
+      "location": "tirupur",
+      "country": "india",
+      "password": "123456"
+    },
+    {
+      "vendor_name": "akshay",
+      "email": "exmaple.com",
+      "phone_number": "1234567890",
+      "location": "tirupur",
+      "country": "india",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "vendor_name": "AkshayDinesh",
+      "email": "dineshkumar433900@gmail.com",
+      "phone_number": "6383096196",
+      "location": "New Jersey",
+      "country": "United States",
+      "password": "q",
+      "id": 6
+    },
+    {
+      "vendor_name": "AkshayDineshKumar",
+      "email": "dineshkumar433900@gmail.com",
+      "phone_number": "6383096196",
+      "location": "New Jersey",
+      "country": "United States",
+      "password": "q",
+      "id": 7
+    },
+    {
+      "vendor_name": "",
+      "email": "",
+      "phone_number": "",
+      "location": "",
+      "country": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "vendor_name": "Tvy",
+      "email": "dineshkumar433900@gmail.com",
+      "phone_number": "8",
+      "location": "F",
+      "country": "G",
+      "password": "g",
+      "id": 9
+    }
+  ]
+}

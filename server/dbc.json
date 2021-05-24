@@ -1,0 +1,73 @@
+{
+  "vendors": [
+    {
+      "vendor_name": "Akshay",
+      "email": "dineshkumar433900@gmail.com",
+      "location": "Tamil Nadu",
+      "password": "123",
+      "id": 1,
+      "hotel": [
+        {
+          "id": 1,
+          "hotel_name": "Stanley Hotel",
+          "floor_count": 3,
+          "room_count": 9,
+          "conference" : [
+            {
+              "id" : 1,
+              "conference_name": "National Science Conference",
+              "start" : "00/00/0000",
+              "end" : "00/00/0000",
+              "room": [
+                {
+                  "id": 1,
+                  "room_num": 101,
+                  "floor_num": 1,
+                  "seat_count": 10,
+                  "timing": [
+                    {
+                      "id": 1,
+                      "start": "10 pm",
+                      "end": "1 pm",
+                      "tittle": "Science",
+                      "gust": [
+                        {
+                          "id": 1,
+                          "name": "gust_name",
+                          "tittle": "gust_speech_tittle"
+                        },
+                        {
+                          "id": 2,
+                          "name": "gust_name",
+                          "tittle": "gust_speech_tittle"
+                        }
+                      ]
+                    },
+                    {
+                      "id": 2,
+                      "start": "1:30 pm",
+                      "end": "4:30 pm",
+                      "tittle": "Science",
+                      "gust": [
+                        {
+                          "id": 1,
+                          "name": "gust_name",
+                          "tittle": "gust_speech_tittle"
+                        },
+                        {
+                          "id": 2,
+                          "name": "gust_name",
+                          "tittle": "gust_speech_tittle"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
