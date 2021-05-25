@@ -25,7 +25,7 @@ export default function conferencePlaceDetails({navigation}) {
 
             <View>
                 <Text style={styles.tittle}>Enter Details</Text>
-                <Text style={{...styles.titDes}}>Welcome our conference hotel register portel</Text>
+                <Text style={{...styles.titDes}}>Welcome our conference register portel</Text>
                 <View>
                     <TouchableOpacity onPress={() => navigation.navigate("placeSearch")}>
                         <View style={{...styles.viewCont,alignItems:"center"}}>

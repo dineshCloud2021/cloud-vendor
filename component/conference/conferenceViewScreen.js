@@ -67,6 +67,7 @@ export default function conferenceViewScreen({navigation,route}) {
                     contentContainerStyle={{alignItems:"center"}}
                     data={DATA}
                     numColumns={6}
+                    keyExtractor={item => item}
                     renderItem={({item})=>  <Item item={item} />}/>
                     <View style={{borderBottomWidth:0.5,width:width/1.2,alignSelf:"center"}}/>
             </View>
@@ -78,6 +79,7 @@ export default function conferenceViewScreen({navigation,route}) {
                     contentContainerStyle={{alignItems:"center"}}
                     data={DATAHALL}
                     numColumns={4}
+                    keyExtractor={item => item}
                     renderItem={({item})=>  <ItemHall item={item} />}/>
                 }
                

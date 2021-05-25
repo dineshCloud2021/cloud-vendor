@@ -109,6 +109,7 @@ const DATA = [
                 <FlatList
                     horizontal
                     data={DATA}
+                    keyExtractor={item => item.id}
                     renderItem={({item})=>  <Item item={item} />}/>
             </View>
         
