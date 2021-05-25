@@ -1,7 +1,7 @@
  {
    "expo": {
-    "name": "Conference",
-    "icon": "./assets/icon.png",
+    "name": "conference",
+    "icon": "./assets/logo.jpg",
     "version": "1.0.0",
     "slug": "Conference",
     "ios": {
